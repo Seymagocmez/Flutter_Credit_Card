@@ -49,7 +49,7 @@ flutter run
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-Feel free to contribute to this project. I am looking forward to improve!
+Feel free to contribute to this project. It’s still open, and I’m looking forward to improving it with your help!
 
   
   
