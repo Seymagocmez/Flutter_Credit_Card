@@ -1,16 +1,66 @@
-# vbt_staj
+<h1 align="center" id="title">Credit Card Application</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/Seymagocmez/Flutter_Credit_Card/image?font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Credit Card application made with Flutter.</p>
 
-This project is a starting point for a Flutter application.
+  
+  
+<h2>🧐 Features</h2>
 
-A few resources to get you started if this is your first Flutter project:
+Here're some of the project's features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*   Flutter-based credit card management application
+*   State management support with GetX for efficient and scalable architecture
+*   Dio package integration for handling API requests
+*   Dependency Injection support for clean and maintainable code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repository:</p>
+
+```
+git clone https://github.com/Seymagocmez/Credit_Card.git
+```
+
+<p>2. Navigate to the project directory:</p>
+
+```
+cd Credit_Card
+```
+
+<p>3. Install the required packages:</p>
+
+```
+flutter pub get
+```
+
+<p>4. Initialize Firebase: If you haven't already set up Firebase in your Flutter project: Go to the Firebase Console. Click on "Add project" and follow the instructions to create a new project. After creating the project add your Firebase configuration to:</p>
+
+```
+lib/firebase_options.dart
+```
+
+<p>5. Run the application:</p>
+
+```
+flutter run
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+Feel free to contribute to this project. I am looking forward to improve!
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Dart
+*   Flutter
+*   Firebase
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License.
